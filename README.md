@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Developer,%20Teacher%20and%20Student&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 </p>
 <h1 align="center">Hi 👋, I'm PORFIRIO QUINTEROS </h1>  
-<h3 align="justify">A passionate technology developer, throughout my career from my studies to today I have learned many technologies, but my main strengths are: Backend, Frontend and cybersecurity.</h3>  
+<p align="justify">A passionate technology developer, throughout my career from my studies to today I have learned many technologies, but my main strengths are: Backend, Frontend and cybersecurity.</p>  
 
 <h2 align="">About me:</h2>  
 
@@ -30,7 +30,7 @@
 <tr>
 <td valign="top">
 
-<h3>🚀 Lenguajes</h3>
+<h3>🚀 Languages</h3>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
@@ -60,7 +60,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/>
 </p>
 
-<h3>🗄️ Bases de Datos</h3>
+<h3>🗄️ DataBase</h3>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
@@ -72,13 +72,13 @@
 
 <td valign="top">
 
-<h3>📱 Móvil</h3>
+<h3>📱 Mobile</h3>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
 </p>
 
-<h3>🛠️ Herramientas</h3>
+<h3>🛠️ Tools</h3>
 <p>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
@@ -86,7 +86,7 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 </p>
 
-<h3>☁️ Otros</h3>
+<h3>☁️ Others</h3>
 <p>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
@@ -97,28 +97,28 @@
 </tr>
 </table>
 
-## 🚀 Experiencia y Proyectos
+## 🚀 Experience and Projects
 
-### 💻 Proyectos Desarrollados
+### 💻 Developed Projects
 
-- **Sistema de Inventario para Distribuidora de Agua**  
-  Desarrollo de una aplicación web para la gestión de inventario, control de productos y seguimiento de ventas.  
-  **Tecnologías:** PHP, HTML, JavaScript, MVC, MySQL  
+- **Inventory System for a Water Distributor**  
+Development of a web application for inventory management, product control, and sales tracking. 
+  **Technologies:** PHP, HTML, JavaScript, MVC, MySQL  
 
-- **Sistema de Administración de Torneos de Fútbol**  
-  Plataforma web para la organización de torneos, gestión de equipos, partidos y resultados.  
-  **Tecnologías:** PHP, HTML, JavaScript, MVC, MySQL  
+- **Soccer Tournament Management System**  
+Web platform for organizing tournaments, managing teams, matches, and results.
+  **Technologies:** PHP, HTML, JavaScript, MVC, MySQL  
 
-- **Sistema de Inventario General**  
-  Aplicación para la administración de inventarios con enfoque empresarial, incluyendo control de stock y reportes.  
-  **Tecnologías:** C#, HTML, JavaScript, MVC, SQL Server, Azure  
+- **General Inventory System**  
+Application for managing inventory with an enterprise focus, including stock control and reporting. 
+  **Technologies:** C#, HTML, JavaScript, MVC, SQL Server, Azure  
 
 ---
 
-### 👨‍🏫 Experiencia Académica
+### 👨‍🏫 Academic Experience
 
-- **Asesor de Proyectos en Sistemas Informáticos**  
-  Acompañamiento y orientación a estudiantes en el desarrollo de proyectos tecnológicos, brindando apoyo en análisis, diseño y programación.
+- **Computer Systems Project Consultant**  
+ Support and guidance for students in the development of technological projects, providing support in analysis, design and programming.
 
 <!-- FOOTER -->
 <p align="center">
