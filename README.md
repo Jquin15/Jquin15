@@ -2,15 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Developer,%20Teacher%20and%20Student&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 </p>
 <h1 align="center">Hi 👋, I'm PORFIRIO QUINTEROS </h1>  
-<p align="justify">A passionate technology developer, throughout my career from my studies to today I have learned many technologies, but my main strengths are: Backend, Frontend and cybersecurity.</p>  
+<p align="justify">Apassionate technology developer. Throughout my career, from my studies to the present, I have learned many technologies. My main strengths include: Backend, Frontend and cybersecurity.</p>  
 
 <h2 align="">About me:</h2>  
 
-<p align="justify">I'm Salvadoran 🇸🇻. I'm a systems engineering student at the Catholic University of El Salvador. I'm passionate about creating new projects and sharing my knowledge 🤓. Besides programming, I'm interested in cybersecurity 💻. My students say I give a lot of homework, but it's so they can learn 😎.</p>  
+<p align="justify">I'm a Salvadoran 🇸🇻 systems engineering student at the Catholic University of El Salvador. I am passionate about developing innovative projects and sharing knowledge 🤓. In addition to programming, I have a strong interest in cybersecurity 💻.
+As an educator, I am committed to fostering learning and academic growth, encouraging my students to challenge themselves through consistent practice 😎.</p>  
 
 
   
-- 🔭 I’m currently working on **Teacher, hourly class at: Catholic University of El Salvador and National Institute of Sensuntepeque**  
+- 🔭 I currently work as **Teacher, hourly class at: Catholic University of El Salvador and National Institute of Sensuntepeque**  
   
 - 🌱 I’m currently learning **Ingles**  
   
