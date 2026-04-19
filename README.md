@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Developer,%20Teacher%20and%20Student&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 </p>
 <h1 align="center">Hi 👋, I'm PORFIRIO QUINTEROS </h1>  
-<p align="justify">Apassionate technology developer. Throughout my career, from my studies to the present, I have learned many technologies. My main strengths include: Backend, Frontend and cybersecurity.</p>  
+<p align="justify">A passionate technology developer. Throughout my career, from my studies to the present, I have learned many technologies. My main strengths include: Backend, Frontend and cybersecurity.</p>  
 
 <h2 align="">About me:</h2>  
 
